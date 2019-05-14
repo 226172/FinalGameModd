@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "UfoGame2",
+"dataUrl": "FinalGameMod.data.unityweb",
+"asmCodeUrl": "FinalGameMod.asm.code.unityweb",
+"asmMemoryUrl": "FinalGameMod.asm.memory.unityweb",
+"asmFrameworkUrl": "FinalGameMod.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
